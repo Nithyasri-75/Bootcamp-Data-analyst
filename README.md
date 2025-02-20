@@ -10,7 +10,7 @@ Each day contains multiple tasks, and each task includes:
 
 * data.xlsx -> Dataset required for the task 
 
-* output.jpg -> Any generated output (e.g., visualization images) 
+* output.png -> Any generated output (e.g., visualization images) 
 
 * README.md -> Task-specific explanations 
 
