@@ -28,7 +28,7 @@ This task involves creating a **Line Chart** to visualize the **change in Income
 ---
 
 ## 📷 Screenshot of the Chart
-![Life Expectancy Chart](output.png)
+![Income Chart](output.png)
 
 ---
 
@@ -38,7 +38,7 @@ This task involves creating a **Line Chart** to visualize the **change in Income
 
 ---
 
-🚀 **Goal:** Understand how life expectancy has evolved over time using data visualization techniques.
+🚀 **Goal:** Understand how average income has changed over time using data visualization techniques.
 
 ---
 
