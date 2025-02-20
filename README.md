@@ -1,15 +1,16 @@
-Bootcamp-Data-analyst-
+# Bootcamp-Data-analyst
 
-📌 Overview
+# 📌 Overview
 
-This repository provides a structured format for organizing bootcamp tasks. Each day's work is divided into multiple tasks, with relevant files included.
+This repository has bootcamp tasks. Each day's work is divided into multiple tasks, with relevant files included.
 
 Each day contains multiple tasks, and each task includes:
 
-  solution.ipynb → Jupyter Notebook for implementation
-  
-  data.csv → Dataset required for the task
-  
-  output.jpg → Any generated output (e.g., visualization images)
-  
-  README.md → Task-specific explanations
+* solution.ipynb -> Jupyter Notebook for implementation 
+
+* data.xlsx -> Dataset required for the task 
+
+* output.jpg -> Any generated output (e.g., visualization images) 
+
+* README.md -> Task-specific explanations 
+
