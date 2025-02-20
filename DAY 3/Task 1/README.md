@@ -1,4 +1,4 @@
-# 📈 Task 3: Line Chart - Life Expectancy Over the Years
+# 📈 Task 1: Line Chart - Life Expectancy Over the Years
 
 ## 📌 Overview  
 This task involves creating a **Line Chart** to visualize the **change in Life Expectancy over the years**. 
@@ -10,8 +10,8 @@ This task involves creating a **Line Chart** to visualize the **change in Life E
 | File Name         | Description                                    |
 |------------------|--------------------------------|
 | `solution.ipynb` | Jupyter Notebook with the code for visualization |
-| `data.csv`       | Dataset containing life expectancy values by year |
-| `output.jpg`     | Screenshot of the generated line chart |
+| `data.xlsx`       | Dataset containing life expectancy values by year |
+| `output.png`     | Screenshot of the generated line chart |
 | `README.md`      | Task description and details |
 
 ---
