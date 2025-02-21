@@ -17,8 +17,8 @@ This task involves creating a **Line Chart** to visualize the **change in Life E
 ---
 
 ## 📊 Data Description
-- **X-Axis (Years)** → Shows the life expectancy value.
-- **Y-Axis (Life Expectancy)** → Represents different years.
+- **X-Axis (Life Expectancy)** → Shows the life expectancy value.
+- **Y-Axis (Years)** → Represents different years.
 
 ---
 
