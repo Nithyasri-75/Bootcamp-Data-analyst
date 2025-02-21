@@ -15,8 +15,8 @@ This task involves creating a **Line Chart** to visualize the **change in Income
 ---
 
 ## 📊 Data Description
-- **X-Axis (Years)** → Shows the  Average Income.
-- **Y-Axis (Life Expectancy)** → Represents different years.
+- **X-Axis (Income)** → Shows the  Average Income.
+- **Y-Axis (Year)** → Represents different years.
 
 ---
 
