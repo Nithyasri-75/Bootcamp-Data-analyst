@@ -1,4 +1,4 @@
-# 📊 DAY 9 - Data Visualization Project
+# 📊 DAY 9 - Data Visualization
 
 ## 📌 Project Overview
 
